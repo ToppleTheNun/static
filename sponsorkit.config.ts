@@ -16,7 +16,7 @@ export default defineConfig({
     },
     {
       title: "Sponsors",
-      monthlyDollars: 10,
+      monthlyDollars: 5,
       preset: presets.medium,
     },
   ],
