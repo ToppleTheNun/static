@@ -7,6 +7,6 @@
   "devDependencies": {
     "prettier": "2.8.4",
     "prettier-plugin-pkg": "0.17.1",
-    "sponsorkit": "0.8.3"
+    "sponsorkit": "0.8.5"
   }
 }
