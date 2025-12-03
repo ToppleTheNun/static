@@ -5,7 +5,7 @@
     "build": "npx sponsorkit -w 800 --dir . && npx sponsorkit -w 1300 --name sponsors.wide --dir ."
   },
   "devDependencies": {
-    "prettier": "3.5.1",
+    "prettier": "3.7.4",
     "prettier-plugin-pkg": "0.18.1",
     "sponsorkit": "0.16.2"
   }
